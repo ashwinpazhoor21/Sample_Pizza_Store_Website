@@ -1,6 +1,6 @@
 # Sample Pizza Store Website (with Online Ordering)
 
-Description:
+## Description:
 
 This project is a food ordering system made entirely functional in django. 
 I used bootstrap 4 besides python to better control all DOM elements. 

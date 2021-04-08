@@ -1,9 +1,5 @@
-# Project 3: Pizza
+# Sample Pizza Store Website (with Online Ordering)
 Web Programming with Python and JavaScript
-
-## Demonstration Video
-Link: https://youtu.be/pT_6vOVVWE4
-
 
 ## Description
 
